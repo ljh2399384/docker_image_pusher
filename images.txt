@@ -1,1 +1,1 @@
-embyserver_arm64v8:latest
+embyserver_arm64v8
