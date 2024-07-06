@@ -1,1 +1,1 @@
-amilys/embyserver:latest
+lovechen/embyserver_arm64v8:latest
